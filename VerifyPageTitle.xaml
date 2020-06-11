@@ -98,7 +98,7 @@
           </ui:Target>
         </ui:GetAttribute.Target>
       </ui:GetAttribute>
-      <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[ActualValue.Contains(&quot;Dashboard&quot;)]" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" />
+      <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[ActualValue.Contains(&quot;Dash&quot;)]" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" />
     </Sequence>
   </Sequence>
 </Activity>
